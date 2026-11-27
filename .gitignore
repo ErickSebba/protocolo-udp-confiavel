@@ -1,0 +1,11 @@
+# Binários e saídas
+server
+client
+*.o
+arquivo_recebido.txt
+recebido.txt
+
+# Editor e ferramentas de IA (ficam só no disco)
+.vscode/
+.claude/
+CLAUDE.md
